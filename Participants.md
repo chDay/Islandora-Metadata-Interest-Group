@@ -9,6 +9,7 @@
 * Itza Carbajal (University of Texas at Austin)
 * Kevin Clair (University of Denver)
 * Anna Dabrowski (Texas Advanced Computing Center)
+* Chris Day (School of the Art Institute of Chicago)
 * Margaret (Annie) Glerum (Florida State University)
 * Meredith Hale (University of Tennessee Libraries)
 * Craig Harkema (University of Saskatchewan)
